@@ -1,0 +1,173 @@
+﻿Data Source,Population (description),Altitude,Parity,Latitude,Longitude
+Roitberg,"N Spain: W+C Cantabrians (Piornedo, etc.)",1534,O,42.8,-6.833
+Roitberg,"N Spain: C Cantabrians, Leitariegos",1674,O,42.9952,-6.4273
+Roitberg,"N Spain: C Cantabrians, Las Señales",1793,O,43.0613,-5.2314
+Roitberg,N Spain: Cantabrian low-elev. (Buelna + Treceño),232,O,43.3177,-4.4643
+Roitberg,"N Spain: E Cantabrians, Puerto de los Tornos",1002,O,43.1465,-3.4469
+Roitberg,N Spain: Basque lowlands (Irun),228,O,43.3201,-1.7274
+Roitberg,"N Spain: Basque Mnts + W Pyrenees (Portalet, etc)",1819,O,42.8051,-0.4187
+Roitberg,"SW France: C Pyrenees, Louvie",386,O,43.1233,-0.3492
+Roitberg,"SW France: C Pyrenees, Gabas",1145,O,42.8897,-0.4274
+Roitberg,"N Spain: C Pyrenees, Lac Bleu + Tourmalet",1798,O,42.9301,0.1347
+Roitberg,"N Spain: C Pyrenees, Vielha",2304,O,42.75,0.8491
+Roitberg,"N Spain: C Pyrenees, Barrados + Liat",2111,O,42.78,0.8824
+Roitberg,N Spain: C Pyrenees: Beret + near,1879,O,42.733,0.9667
+Roitberg,British Isles,64,V,52.4789,-2.9057
+Roitberg,"NW France, Paimpont",159,V,48,-2.17
+Roitberg,"S France, Besse (PDLM + PDLP)",1201,V,45.4867,2.9089
+Roitberg,"S France, Cevennes 1 (CCML )",1414,V,44.45,3.72
+Roitberg,"S France, Cevennes 2 (CMB )",1435,V,44.3842,3.8778
+Roitberg,"S France, Cevennes 3 (CPCE)",1455,V,44.3842,3.8628
+Roitberg,"Switzerland, Berner Voralps",1402,V,46.547,7.75
+Roitberg,"N Belgium, Kalmthout",21,V,51.41,4.41
+Roitberg,E Netherlands 1 (Overasselt),13,V,51.778,5.813
+Roitberg,E Netherlands 2 (Hammert),23,V,51.521,6.163
+Roitberg,W Germany + Belgium,483,V,50.4481,6.6388
+Roitberg,N Germany,24,V,54.0828,9.8084
+Roitberg,"C Germany, Altenfeld",632,V,50.5646,10.9606
+Roitberg,"E Germany, Schkeuditz",113,V,51.3968,12.2214
+Roitberg,E Germany,222,V,51.2266,13.8346
+Roitberg,N & W Austria + Bavarian Alps + near Salzburg,836,V,47.6435,11.7967
+Roitberg,SW Scandinavia,160,V,58.3325,13.1212
+Roitberg,Czechia,705,V,49.3708,13.8893
+Roitberg,Slovakia,931,V,49.0624,19.7143
+Roitberg,S Serbia,1937,V,42.5904,21.7575
+Roitberg,"N Italy, Valtorta",954,O,45.9714,9.5553
+Roitberg,"S Austria, Straniger Alm, EO",1428,O,46.6157,13.1255
+Roitberg,"S Austria, Jochalm",1488,O,46.6724,13.1556
+Roitberg,"S Austria, Camping Reisach",810,O,46.6234,13.1859
+Roitberg,"Slovenia + most NE Italy, Julian & Kamnik-Savinja Alps",1370,O,46.3755,13.9858
+Roitberg,"Slovenia, Goreljek & near",1241,O,46.3358,13.9878
+Roitberg,"Slovenia, lowland sites (Ljubljana & near)",321,O,46.01,14.516
+Roitberg,"S Austria, Straniger Alm, CVII",1501,V,46.5932,13.148
+Roitberg,"NE Italy, Valbertat Alta",1505,V,46.5804,13.1441
+Roitberg,"S Austria, Rattendorfer Alm",1417,V,46.5923,13.2069
+Roitberg,"E Austria, around Schneeberg",833,V,47.7869,15.834
+Roitberg,"E Austria, Pollereshütte",1349,V,47.627,15.8591
+Roitberg,"E Austria, lowland sites",143,V,47.9539,16.7319
+Roitberg,"E Carpath., Ukr. 1 (Torun)",669,V,48.6717,23.5617
+Roitberg,"E Carpath., Ukr. 2 (rest Zakarpat. R)",553,V,48.4442,23.6111
+Roitberg,"E Carpath., Ukr. 3 (foothills)",758,V,48.175,24.7826
+Roitberg,"E Carpath., Romania",675,V,47.5217,25.5667
+Roitberg,lowland W & C. Ukraine,190,V,50.1919,28.7025
+Roitberg,Finland,119,V,63.3341,26.8041
+Roitberg,near St Petersburg,41,V,60.2225,29.6822
+Roitberg,"Novgorod R, Valday",208,V,57.9913,33.3749
+Roitberg,E Ukraine 1,134,V,50.8797,34.1927
+Roitberg,E Ukraine 2,96,V,49.5296,36.0185
+Roitberg,Moscow R,152,V,55.4356,38.045
+Roitberg,Arkhangelsk R,61,V,65.9538,42.7954
+Roitberg,"Mordov R (nat. park Smolnyi, etc)",178,V,54.835,45.337
+Roitberg,"Penza R (Volkhonchshino, etc)",208,V,52.742,45.228
+Roitberg,"Samara R (Gundorovka, etc)",137,V,54.159,51.282
+Roitberg,"Perm R, Chepets",122,V,60.4258,55.645
+Roitberg,"Komi R., Pechora",140,V,61.8158,56.8425
+Roitberg,"Perm R, Kvazhva",157,V,58.383,56.4
+Roitberg,"Perm R, Kamenka",263,V,57.999,57.778
+Roitberg,"NE Bashkir R, Bagazy",196,V,55.8842,56.8859
+Roitberg,"Orenburg R, Burtyn steppe",261,V,51.2289,56.6692
+Roitberg,"SE Bashkir R, Chingizovo",484,V,52.6517,58.0142
+Roitberg,"W Siberia+, northern sites",20,V,64.8497,74.6467
+Roitberg,"Yugra, SW (Konda)",54,V,60.4417,64.2583
+Roitberg,"Yugra, Ob River, W",50,V,61.0278,70.1167
+Roitberg,"Yugra, Ob River, mid & E",34,V,60.9334,74.7542
+Roitberg,"Yugra, Severnyi",100,V,62.917,72.233
+Roitberg,"Yugra, Sibirskiye Uvaly",190,V,62.8333,81.4167
+Roitberg,Krasnoyarsk R,270,V,60.9859,91.5822
+Roitberg,"Tomsk R, S taiga",93,V,57.6814,84.1448
+Roitberg,"Tomsk R, Kireyevskoye",77,V,56.367,84.083
+Roitberg,"Tomsk R, Timiryazevo",74,V,56.4922,84.9036
+Roitberg,"Tomsk R, Kuzovlevo",100,V,56.5667,85
+Roitberg,"Tomsk R, Anikino+Losk",143,V,56.3925,85.0175
+Roitberg,"Kuz. Alatau, N",448,V,55.5128,88.0468
+Roitberg,"Kuz. Alatau, Bezymyanka",590,V,54.9256,88.3688
+Roitberg,"Kuz. Alatau, W",317,V,54.3883,87.7215
+Roitberg,"Kuz. Alatau, Rybnoe",1091,V,54.3274,88.4106
+Roitberg,"Kuz. Alatau, E (Chudnoe, Bazan, etc) ",955,V,54.1831,89.2147
+Roitberg,"Kemerovo R, Shoria",903,V,52.8963,87.917
+Roitberg,"N Altai, higher elev.",888,V,51.5413,85.5841
+Roitberg,"N Altai, lower elev.",313,V,52.0779,86.1521
+Roitberg,"NE Altai, Kebezen+Artybash",445,V,51.8497,87.1703
+Roitberg,"NE Altai, Altai reserve, low",503,V,51.7731,87.6116
+Roitberg,"NE Altai, Altai reserve, high",1730,V,51.0154,88.6153
+Roitberg,"SW Altai, Markakol",1558,V,48.7162,86.0005
+Roitberg,area around Baikal Sea,576,V,53.3457,106.9327
+Roitberg,SW Yakutiya,218,V,60.3833,120.4667
+Roitberg,"NE China, Sinvu",302,V,49.65,127.57
+Roitberg,Amur R,184,V,49.3375,130.3253
+Roitberg,S Sakhalin & N Hokkaido,61,V,46.6948,142.4896
+Roitberg,"mixed samples, WO",347,O,43.2145,-4.3842
+Roitberg,"mixed samples, WV",922,V,48.747,12.8173
+Roitberg,"mixed samples, EO",855,O,46.2906,13.7214
+Roitberg,"mixed samples, EV",276,V,52.9618,69.8752
+Roitberg,"mixed samples, CVI",1173,V,47.6535,15.7594
+Roitberg,"mixed samples, CVII",1789,V,46.7698,13.355
+Roitberg,"mixed samples, unknown clades",1606,,46.9973,12.4629
+Cornetti,Passo Tonale,1850,V,46.2553,10.5731
+Cornetti,Lasteati,2080,V,46.1676,11.558
+Cornetti,Masi Carretta,1305,V,46.1067,11.6311
+Cornetti,Palù Longia,1565,V,46.4717,11.0819
+Cornetti,Palù Tremole,1720,V,46.4789,11.0753
+Cornetti,Lago Calaita,1660,V,46.2058,11.7939
+Cornetti,Campo Carlo Magno,1650,V,46.2171,10.8851
+Cornetti,Passo San Pellegrino,1795,V,46.3754,11.7608
+Cornetti,Passo Lavazè (peatbog),1565,V,46.3404,11.4869
+Cornetti,Passo Lavazè (lake),1805,V,46.3562,11.493
+Cornetti,Passo Redebus,1435,V,46.1382,11.3191
+Cornetti,Passo Rolle,1915,V,46.2833,11.7661
+Cornetti,Passo Manghen,2050,V,46.1777,11.4516
+Cornetti,Lago Lama,2275,V,46.4165,10.6923
+Cornetti,Vilminore,1640,V,45.9906,10.0417
+Cornetti,Gandellino,1720,V,46.005,9.9119
+Cornetti,Valbondione,1290,V,46.0225,10.0108
+Cornetti,Biotopo ‘I Mughi’,1220,V,46.0978,11.6106
+Cornetti,Santa Brigida,1600,V,46.0375,9.6167
+Cornetti,Averara,1780,V,46.0369,9.6244
+Cornetti,Cusio,1810,V,46.0119,9.5961
+Cornetti,Valmora,1575,V,46.0342,9.6217
+Cornetti,Mezzoldo,1720,V,46.0283,9.6272
+Cornetti,Schilpario,1800,V,46.0378,10.1589
+Cornetti,Redagno,1540,V,46.3447,11.3986
+Cornetti,Valleve,1830,V,46.0517,9.6969
+Cornetti,Lago Morasco,1790,V,46.4236,8.4028
+Cornetti,Ridanna,1715,V,46.9417,11.25
+Cornetti,Vallmigalm,1815,V,46.9472,11.3
+Cornetti,Passo Brocon ,1670,V,46.1202,11.6861
+Cornetti,Siror,1680,V,46.2714,11.7719
+Cornetti,Passo Valles,2030,V,46.3394,11.7994
+Cornetti,Lago di Campo,1975,V,46.0387,10.4934
+Cornetti,Alpe Luson,1900,V,46.7692,11.7689
+Cornetti,Segusino ,1240,O,45.9631,12.0286
+Cornetti,Lago d'Ampola,735,O,45.8719,10.6553
+Cornetti,Palù Longa,1435,O,46.2955,11.3671
+Cornetti,Costa,1250,O,45.9108,11.1925
+Cornetti,Inghiaie,450,O,45.9975,11.3103
+Cornetti,Monte Grappa,1700,O,45.8722,11.3025
+Cornetti,Santa Colomba,950,O,46.1249,11.1817
+Cornetti,Monte Barone,1650,O,45.7275,8.1667
+Cornetti,Monte Mottarone,860,O,45.9336,8.2197
+Cornetti,Valle Strona,1500,O,45.8892,8.2958
+Cornetti,Alpe di Mera,1630,O,45.7397,8.0706
+Cornetti,Val Sessera,1500,O,45.6658,8.0978
+Cornetti,Monte Croce,1660,O,45.8778,8.4867
+Cornetti,Bocchetta Luvera,1300,O,45.7292,8.1608
+Cornetti,Valle Dolca,1700,O,45.7375,8.0656
+Cornetti,Ardesio,1610,O,45.8667,9.8492
+Cornetti,Valgoglio,1420,O,45.9904,9.9069
+Cornetti,Averara,1420,O,46.0267,9.6286
+Cornetti,Valmora,1510,O,46.0267,9.6286
+Cornetti,Cusio,1120,O,45.9927,9.6107
+Cornetti,Ornica,1330,O,45.9983,9.5608
+Cornetti,Serina,1290,O,45.8794,9.7603
+Cornetti,Oneta,1320,O,45.8636,9.7936
+Cornetti,Roncobello,1880,O,45.9653,9.7917
+Cornetti,Branzi,1790,O,46.0028,9.785
+Cornetti,Cascinetto di Menna,1405,O,45.9067,9.7528
+Cornetti,Rasun,1100,O,46.8083,12.0753
+Odupoe,Col des Marrous,990,O,42.9622,1.4445
+Odupoe,Lac de Bethmale,1054,O,42.8621,1.0871
+Odupoe,Col de la Core,1405,O,42.8592,1.1056
+Odupoe,Etang de Lers,1246,O,42.8089,1.3755
+Odupoe,Aulus,1400,O,42.7826,1.3865
+Odupoe,Col d' Agnes,1580,O,42.7943,1.3743
+Vdupoe,"Saint-Pierre-lès-Nemours, France",,V,48.2865,2.6794
